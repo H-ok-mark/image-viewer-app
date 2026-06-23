@@ -45,7 +45,7 @@ val imageList = listOf(
 
 `app/build/outputs/apk/debug/app-debug.apk`
 
-## 在 GitHub Codespaces 中编译 APK（详细步骤）
+## 在 GitHub Codespaces 中编译 APK（详细中文步骤）
 
 1. 打开仓库主页，点击 **Code** -> **Codespaces** -> **Create codespace on main**
 2. 等待 Codespace 启动完成

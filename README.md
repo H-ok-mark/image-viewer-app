@@ -52,7 +52,6 @@ val imageList = listOf(
 3. 在终端执行：
 
 ```bash
-chmod +x gradlew
 ./gradlew :app:assembleDebug
 ```
 
